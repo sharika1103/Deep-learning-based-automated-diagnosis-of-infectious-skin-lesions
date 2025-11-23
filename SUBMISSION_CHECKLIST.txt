@@ -1,0 +1,15 @@
+GitHub:
+	infectious-skin-lesion-classification.ipynb (Python notebook)
+	Infectious Skin Lesion Dataset (ZIP file)
+	Instruction to reproduce results (Text file)
+	final_mobilenetv2_model_a1.keras (Final weights for best model)
+Classroom:
+	Project report
+
+Drive:
+	Presentation video
+
+Docfile:
+	Project title
+	Description for video
+	GitHub Link
